@@ -31,5 +31,8 @@ This example takes an input `.mp4` file and converts it into HLS format and comp
 
 ### Resources 
 
+* On-Demand vs Live Streaming article with [Cloudfront](https://aws.amazon.com/cloudfront/streaming/)
 * [AWS MediaConvert](https://aws.amazon.com/mediaconvert/) - You can export a json file from the dashboard
 * [MediaConvert for python](https://docs.aws.amazon.com/mediaconvert/latest/apireference/python.html)
+
+<hr>
