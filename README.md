@@ -7,6 +7,9 @@ This example takes an input `.mp4` file and converts it into HLS format and comp
 * HLS - HTTP Live Streaming is an _HTTP-based adaptive bitrate streaming_ communications protocol
   - MediaConvert generates the `.m3u8` file and the `.ts` files (10s segments)
   
+To do - 
+* DASH - _Dynamic Adaptive Streaming over HTTP_
+
 <hr>
 
 ### Process 
